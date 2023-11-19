@@ -12,7 +12,7 @@ An `onlinecourse` app has already been provided in this repo upon which you will
 **ER Diagram**
 For your reference, we have prepared the ER diagram design for the new assesement feature.
 
-![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.pn
+![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png
 
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1
