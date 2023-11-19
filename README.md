@@ -14,6 +14,15 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 
+# Objectives
+- Understand the requirements of the new course assessment feature
+- Create question, choice, and submission models
+- Create a new course object with exam related models using the admin site
+- Update the course details template to show questions and choices
+- Create a new exam result template to show the result of the submission
+- Create a new exam result submission view
+- Create a new view to display and evaluate exam result
+
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1
 - pip install virtualenv
