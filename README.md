@@ -1,5 +1,9 @@
 
-**General Notes**
+![Screenshot 2023-11-18 at 10 04 03 PM](https://github.com/Yeranosyan/my-course-repo/assets/120154377/3c36b788-d653-43b0-90b8-2373d98d7d59)
+
+
+**General ![Uploading Screenshot 2023-11-18 at 10.04.03 PM.png…]()
+Notes**
 
 An `onlinecourse` app has already been provided in this repo upon which you will be adding a new assesement feature.
 
