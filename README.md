@@ -18,13 +18,15 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 
 # Objectives
-## Understand the requirements of the new course assessment feature
-## Create question, choice, and submission models
-## Create a new course object with exam related models using the admin site
-## Update the course details template to show questions and choices
-## Create a new exam result template to show the result of the submission
-## Create a new exam result submission view
-## Create a new view to display and evaluate exam result
+` 
+Understand the requirements of the new course assessment feature. 
+Create question, choice, and submission models.
+Create a new course object with exam related models using the admin site.
+Update the course details template to show questions and choices.
+Create a new exam result template to show the result of the submission.
+Create a new exam result submission view.
+Create a new view to display and evaluate exam result.
+`
 ![01-models](https://github.com/Yeranosyan/my-course-repo/assets/120154377/7dc1a761-214c-4bfc-977d-9f0bbf4bff9c)
 ![02-admin-file](https://github.com/Yeranosyan/my-course-repo/assets/120154377/55d756b4-18cc-4178-b558-f204d5e648d0)
 ![03-admin-site](https://github.com/Yeranosyan/my-course-repo/assets/120154377/583cbd0a-73b5-413a-8e7e-33af68eb5c8f)
