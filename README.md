@@ -22,6 +22,13 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 ## Create a new exam result template to show the result of the submission
 ## Create a new exam result submission view
 ## Create a new view to display and evaluate exam result
+![01-models](https://github.com/Yeranosyan/my-course-repo/assets/120154377/7dc1a761-214c-4bfc-977d-9f0bbf4bff9c)
+![02-admin-file](https://github.com/Yeranosyan/my-course-repo/assets/120154377/55d756b4-18cc-4178-b558-f204d5e648d0)
+![03-admin-site](https://github.com/Yeranosyan/my-course-repo/assets/120154377/583cbd0a-73b5-413a-8e7e-33af68eb5c8f)
+![04-course-details](https://github.com/Yeranosyan/my-course-repo/assets/120154377/93ecc812-ec61-43d4-84c4-c74b10278ca7)
+![05-views](https://github.com/Yeranosyan/my-course-repo/assets/120154377/bd68e54e-8f51-49e4-9b3c-11657ba01710)
+![06-urls](https://github.com/Yeranosyan/my-course-repo/assets/120154377/1309d3e0-5c40-49ec-97e0-cf57a8185869)
+![07-final](https://github.com/Yeranosyan/my-course-repo/assets/120154377/0300cde2-2428-41ea-a0f8-09e3f8e6b3d0)
 
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1
